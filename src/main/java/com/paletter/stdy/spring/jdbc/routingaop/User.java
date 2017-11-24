@@ -1,4 +1,4 @@
-package com.paletter.stdy.spring.jdbc.entity;
+package com.paletter.stdy.spring.jdbc.routingaop;
 
 public class User {
 
